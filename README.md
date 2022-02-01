@@ -1,2 +1,6 @@
 # coderhouse_desafioRedis
-coderhouse_desafioRedis
+##POSTMAN
+![postman](postman.png)
+
+##CONSOLA
+![consola](consola.png)
